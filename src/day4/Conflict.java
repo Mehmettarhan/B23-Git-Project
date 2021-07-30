@@ -7,5 +7,5 @@ public class Conflict {
     // I can type anything I want
 
     // this is collection branch content
-
+     // this is the change collection2 branch doesn't know about it
 }
