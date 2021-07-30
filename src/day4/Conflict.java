@@ -7,5 +7,8 @@ public class Conflict {
     // I can type anything I want
 
     // this is collection branch content
-     // this is the change collection2 branch doesn't know about it
+    // this is the custom output from
+    // my resolving merge conflict
+    // good job guys!
+
 }
